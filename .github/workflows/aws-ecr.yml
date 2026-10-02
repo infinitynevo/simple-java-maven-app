@@ -7,7 +7,7 @@ on:
 
 env:
     REGION: eu-north-1
-    ECR_REPO: java-app
+    ECR_REPO: infinitynevo/java-app
 
 jobs:
   build:
